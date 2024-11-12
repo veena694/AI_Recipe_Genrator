@@ -1,0 +1,41 @@
+.recipe-details-page {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .recipe-details-page img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
+  .recipe-details-page h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .recipe-details-page h3 {
+    font-size: 1.5rem;
+    color: #444;
+    margin-top: 1.5rem;
+  }
+  
+  .recipe-details-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recipe-details-page li {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .recipe-details-page p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  

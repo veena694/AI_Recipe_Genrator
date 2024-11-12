@@ -1,0 +1,14 @@
+/* RecipeList.css */
+
+.recipe-list {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px 0;
+  }
+  
+  .recipe-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  

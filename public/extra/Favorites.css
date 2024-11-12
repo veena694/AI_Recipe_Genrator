@@ -1,0 +1,40 @@
+/* Favorites.css */
+
+.favorites-list {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px 0;
+  }
+  
+  .favorites-list h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .favorite-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+  }
+  
+  .favorite-card img {
+    width: 50px;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .favorite-card button {
+    padding: 6px 10px;
+    background-color: #ff6347;
+    color: white;
+  }
+  
+  .favorite-card button:hover {
+    background-color: #e5533f;
+  }
+  
